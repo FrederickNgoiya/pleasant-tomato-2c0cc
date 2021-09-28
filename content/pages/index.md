@@ -7,10 +7,9 @@ sections:
     title: >-
       This is a Software Development Agency Based in Dar-es-salaam and Focused
       on Custom Software Development.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      We work closely with you, your team to deliver inspiring work, which
+      enables your organization to grow. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
