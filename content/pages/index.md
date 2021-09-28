@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      This is a Software Development Agency Based in Dar-es-salaam and F on
-      Custom Software Development , Identity, and Print Design.
+      This is a Software Development Agency Based in Dar-es-salaam and Focused
+      on Custom Software Development.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
